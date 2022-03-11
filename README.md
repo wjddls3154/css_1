@@ -3,7 +3,7 @@ Created with CodeSandbox
 
 ![1](https://user-images.githubusercontent.com/37132897/157812077-5cd6a960-4538-472c-a51b-949f42e8dbee.JPG)
 
-- 현재 올린 소스 : 외부에서 폰트 가져온것과, 아이콘 가져온것에 대한 소스.
+★ 현재 올린 소스 : 위의 결과값 이미지 : 외부에서 폰트 가져온것과, 아이콘 가져온것에 대한 소스.
 - 아래 설명들은 + 그전에 추가로 배운것들 정리
 
 css
